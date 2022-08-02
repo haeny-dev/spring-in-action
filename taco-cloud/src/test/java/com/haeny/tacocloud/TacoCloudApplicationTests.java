@@ -1,10 +1,10 @@
-package com.haeny.springinaction;
+package com.haeny.tacocloud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringInActionApplicationTests {
+class TacoCloudApplicationTests {
 
     @Test
     void contextLoads() {
